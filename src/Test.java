@@ -10,6 +10,7 @@ public class Test {
 	public static void main(String s[]){
 	Test t=new Test();
 	System.out.println(t.x);
-	System.out.println("I am here")
+	
+	System.out.println("I am here **************");
 	
 }}
